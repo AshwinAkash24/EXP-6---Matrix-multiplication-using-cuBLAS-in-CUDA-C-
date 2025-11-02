@@ -1,5 +1,7 @@
 # EXP-6---Matrix-multiplication-using-cuBLAS-in-CUDA-C-
-
+# Name: Ashwin Akash M
+# Reference Number:212223230024
+# Date: 02-11-2025
 # Objective
 To implement matrix multiplication on the GPU using the cuBLAS library in CUDA C, and analyze the performance improvement over CPU-based matrix multiplication by leveraging GPU acceleration.
 
